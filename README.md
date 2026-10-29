@@ -13,4 +13,6 @@ I develop scientific software for atomistic simulation and machine-learning inte
 
 ## Availability
 
+<img src="release-pending.gif" alt="Public code release pending." width="360">
+
 The four repositories are currently private and will be released alongside the research papers presenting their applications.
