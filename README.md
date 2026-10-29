@@ -2,6 +2,8 @@
 
 I develop scientific software for atomistic simulation and machine-learning interatomic potentials.
 
+If you’re here to take a closer look at my code, you’re in the right place—just ahead of the papers. The software is ready for release and will be made public alongside the corresponding publications. In the meantime, feel free to get in touch at fedro.andrea@gmail.com.
+
 ## Projects
 
 | Project | Purpose |
