@@ -1,16 +1,16 @@
-## Hi there 👋
+# Andrea Fedrigucci
 
-<!--
-**DrFedro/DrFedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I develop scientific software for atomistic simulation and machine-learning interatomic potentials.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Project | Purpose |
+| --- | --- |
+| [CrystalSeed](projects/crystalseed/README.md) | Generate atomic structures and defects for simulation and dataset preparation. |
+| [MLIP-Benchmark](projects/mlip-benchmark/README.md) | Compare interatomic potentials against the physical and computational requirements of an application. |
+| [MLIP-ZBL](projects/mlip-zbl/README.md) | Correct short-range interactions while retaining the underlying potential's behavior at ordinary distances. |
+| [ScaleDown](projects/scaledown/README.md) | Construct small periodic cells for DFT calculations from large atomic structures and trajectories. |
+
+## Availability
+
+The four repositories are currently private and will be released alongside the research papers presenting their applications.
