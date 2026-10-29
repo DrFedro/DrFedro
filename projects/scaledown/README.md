@@ -27,6 +27,6 @@ In the carbon-surface project, ScaleDown operated on large molecular-dynamics (M
 
 It extracted DFT-tractable cells from those supercells for reference calculations supporting foundation-model fine-tuning. The resulting potentials performed better for the studied surfaces than potentials trained exclusively using existing datasets, such as OMat and OMol.
 
-Some extracted cells also spontaneously reproduced the characteristic periodicity of the graphitic system. This structural result complemented the improvement obtained through the subsequent fine-tuning workflow.
+Some extracted cells also spontaneously reproduced the characteristic periodicity of the graphitic system. This result further supports ScaleDown’s ability to construct smaller periodic cells whose local atomic environments remain consistent with those of the parent structure.
 
 [Portfolio](../../README.md) · [Code availability and release](../../README.md#availability)
