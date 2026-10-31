@@ -28,3 +28,7 @@ CrystalSeed supplied the initial structures for an active-learning workflow deve
 These configurations provided the starting point for collecting structures for potential training. The subsequent active-learning campaign produced a highly accurate potential for the intended application, with CrystalSeed contributing the initial structural basis.
 
 [Portfolio](../../README.md) · [Code availability and release](../../README.md#availability)
+
+<!-- project-metrics:start -->
+
+<!-- project-metrics:end -->
