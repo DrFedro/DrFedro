@@ -29,3 +29,7 @@ MLIP-Benchmark compared models from different architectures in the [tungsten stu
 In these projects, application-focused evaluations identified the models best suited to the intended simulations. Considering behavior beyond the training and validation datasets provided a stronger basis for model selection in the two physical settings.
 
 [Portfolio](../../README.md) · [Code availability and release](../../README.md#availability)
+
+<!-- project-metrics:start -->
+
+<!-- project-metrics:end -->
