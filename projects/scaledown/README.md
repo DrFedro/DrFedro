@@ -34,4 +34,66 @@ Some extracted cells also spontaneously reproduced the characteristic periodicit
 
 <!-- project-metrics:start -->
 
+## Development
+
+| Metric | Value |
+| --- | --- |
+| Project languages | Python |
+| Project code | 26,718 lines |
+| Project files | 85 (including 12 notebooks) |
+| Test code | 7,830 lines |
+| Test files | 40 |
+| External Python libraries | 17 detected (project + tests) |
+| Commit history | 71 reachable commits on main |
+| Last project-file change | 2026-06-23 (UTC) |
+| Statistics collected | 2026-10-31 (UTC) |
+
+<details>
+<summary>Code breakdown & scope</summary>
+
+| Component | Files | Code lines |
+| --- | --- | --- |
+| Package &amp; other source | 62 | 18,073 |
+| Scripts &amp; benchmarks | 10 | 3,261 |
+| Examples | 1 | 118 |
+| Notebook code | 12 | 5,266 |
+| Total project code | 85 | 26,718 |
+
+Project code includes the package and other source files, scripts, examples and notebook code cells. Each file belongs to one component. Tests are counted separately.
+
+Only tracked source files in the measured revision are counted. Documentation, repository automation, environments, caches, vendored code, configured output directories, data and other unselected formats are excluded. Notebook outputs and Markdown cells are excluded.
+
+Code lines use cloc 2.10 and exclude blank lines and comments. Commit history includes every commit reachable from the measured default branch. The change date refers to currently included project files; comments and notebook output/Markdown changes can also change that date.
+
+</details>
+
+<details>
+<summary>External Python libraries (17)</summary>
+
+| Import name | Project files | Test files |
+| --- | --- | --- |
+| numpy | 54 | 35 |
+| ase | 31 | 8 |
+| matplotlib | 15 | 0 |
+| joblib | 10 | 0 |
+| pandas | 9 | 2 |
+| scipy | 6 | 0 |
+| threadpoolctl | 5 | 0 |
+| skmatter | 4 | 0 |
+| tqdm | 3 | 0 |
+| sklearn | 2 | 2 |
+| chemiscope | 2 | 0 |
+| IPython | 2 | 0 |
+| chgnet | 1 | 0 |
+| featomic | 1 | 0 |
+| mace | 1 | 0 |
+| metatensor | 1 | 0 |
+| pytest | 0 | 21 |
+
+Each top-level import name counts once per file or notebook, including optional and type-checking imports. Standard-library and detected local modules are excluded. Dynamic imports, shell/magic commands and runtime changes to import paths are not resolved. This lists direct import presence, rather than installed or transitive dependencies or runtime usage.
+
+</details>
+
+*Test-code volume does not indicate test results or coverage.*
+
 <!-- project-metrics:end -->
