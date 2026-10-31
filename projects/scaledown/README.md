@@ -30,3 +30,8 @@ It extracted DFT-tractable cells from those supercells for reference calculation
 Some extracted cells also spontaneously reproduced the characteristic periodicity of the graphitic system. This result further supports ScaleDown’s ability to construct smaller periodic cells whose local atomic environments remain consistent with those of the parent structure.
 
 [Portfolio](../../README.md) · [Code availability and release](../../README.md#availability)
+
+
+<!-- project-metrics:start -->
+
+<!-- project-metrics:end -->
