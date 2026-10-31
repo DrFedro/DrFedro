@@ -31,4 +31,56 @@ In both projects, it achieved the intended short-range correction while preservi
 
 <!-- project-metrics:start -->
 
+## Development
+
+| Metric | Value |
+| --- | --- |
+| Project languages | Python |
+| Project code | 7,592 lines |
+| Project files | 46 |
+| Test code | 2,284 lines |
+| Test files | 27 |
+| External Python libraries | 12 detected (project + tests) |
+| Commit history | 24 reachable commits on main |
+| Last project-file change | 2026-07-05 (UTC) |
+| Statistics collected | 2026-10-31 (UTC) |
+
+<details>
+<summary>Code breakdown & scope</summary>
+
+| Component | Files | Code lines |
+| --- | --- | --- |
+| Package &amp; other source | 46 | 7,592 |
+| Total project code | 46 | 7,592 |
+
+Project code includes the package and other source files, scripts, examples and notebook code cells. Each file belongs to one component. Tests are counted separately.
+
+Only tracked source files in the measured revision are counted. Documentation, repository automation, environments, caches, vendored code, configured output directories, data and other unselected formats are excluded. Notebook outputs and Markdown cells are excluded.
+
+Code lines use cloc 2.10 and exclude blank lines and comments. Commit history includes every commit reachable from the measured default branch. The change date refers to currently included project files; comments and notebook output/Markdown changes can also change that date.
+
+</details>
+
+<details>
+<summary>External Python libraries (12)</summary>
+
+| Import name | Project files | Test files |
+| --- | --- | --- |
+| torch | 22 | 15 |
+| ase | 11 | 6 |
+| numpy | 8 | 10 |
+| yaml | 5 | 0 |
+| lammps | 3 | 0 |
+| metatomic | 3 | 0 |
+| mlip_benchmark | 2 | 1 |
+| mace | 2 | 0 |
+| nequip | 1 | 1 |
+| mattersim | 1 | 0 |
+| metatensor | 1 | 0 |
+| optuna | 1 | 0 |
+
+Each top-level import name counts once per file or notebook, including optional and type-checking imports. Standard-library and detected local modules are excluded. Dynamic imports, shell/magic commands and runtime changes to import paths are not resolved. This lists direct import presence, rather than installed or transitive dependencies or runtime usage.
+
+</details>
+
 <!-- project-metrics:end -->
