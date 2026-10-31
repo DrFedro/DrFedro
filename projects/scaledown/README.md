@@ -44,7 +44,7 @@ Some extracted cells also spontaneously reproduced the characteristic periodicit
 | Test code | 7,830 lines |
 | Test files | 40 |
 | External Python libraries | 17 detected (project + tests) |
-| Commit history | 71 reachable commits on main |
+| Commit history | 72 reachable commits on main |
 | Last project-file change | 2026-06-23 (UTC) |
 | Statistics collected | 2026-10-31 (UTC) |
 
@@ -93,7 +93,5 @@ Code lines use cloc 2.10 and exclude blank lines and comments. Commit history in
 Each top-level import name counts once per file or notebook, including optional and type-checking imports. Standard-library and detected local modules are excluded. Dynamic imports, shell/magic commands and runtime changes to import paths are not resolved. This lists direct import presence, rather than installed or transitive dependencies or runtime usage.
 
 </details>
-
-*Test-code volume does not indicate test results or coverage.*
 
 <!-- project-metrics:end -->
