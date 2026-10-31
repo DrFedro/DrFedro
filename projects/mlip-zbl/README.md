@@ -28,3 +28,7 @@ MLIP-ZBL was applied to the potentials used in the [tungsten study](../crystalse
 In both projects, it achieved the intended short-range correction while preserving behavior in the DFT-described regime. The corrected and preserved regions were connected through a smooth transition, meeting the modeling objectives of those applications.
 
 [Portfolio](../../README.md) · [Code availability and release](../../README.md#availability)
+
+<!-- project-metrics:start -->
+
+<!-- project-metrics:end -->
