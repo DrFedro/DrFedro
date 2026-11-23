@@ -46,7 +46,7 @@ Some extracted cells also spontaneously reproduced the characteristic periodicit
 | External Python libraries | 17 detected (project + tests) |
 | Commit history | 72 reachable commits on main |
 | Last project-file change | 2026-06-23 (UTC) |
-| Statistics collected | 2026-11-16 (UTC) |
+| Statistics collected | 2026-11-23 (UTC) |
 
 <details>
 <summary>Code breakdown & scope</summary>
