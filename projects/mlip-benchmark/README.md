@@ -44,7 +44,7 @@ In these projects, application-focused evaluations identified the models best su
 | External Python libraries | 20 detected (project + tests) |
 | Commit history | 45 reachable commits on main |
 | Last project-file change | 2026-07-19 (UTC) |
-| Statistics collected | 2026-10-31 (UTC) |
+| Statistics collected | 2026-11-25 (UTC) |
 
 <details>
 <summary>Code breakdown & scope</summary>
